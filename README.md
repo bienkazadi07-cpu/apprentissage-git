@@ -1,2 +1,2 @@
 # apprentissage-git
-Mon premier projet pour apprendre Git et GitHub
+Je commence à apprendre Git !
